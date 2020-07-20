@@ -341,7 +341,7 @@ pre.src:before{
     right: 3px;
     padding: 3px;
     color: #50fa7b;
-    /*border: 1px solid black;*/
+    border: 1px solid #282A35;
   }
 
 .example{
