@@ -333,6 +333,10 @@ pre.src{
     white-space:pre;
 }
 
+pre.src:before{
+    background-color: #282A35;
+}
+
 .example{
     background:#f3f6f6;
     border:1px solid #e1e4e5;
