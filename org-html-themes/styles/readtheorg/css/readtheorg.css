@@ -337,10 +337,11 @@ pre.src:before{
     background-color: #282A35;
     display: none;
     position: absolute;
-    top: 0px;
-    right: 10px;
+    top: 3px;
+    right: 3px;
     padding: 3px;
-    border: 1px solid black;
+    color: #50fa7b;
+    /*border: 1px solid black;*/
   }
 
 .example{
