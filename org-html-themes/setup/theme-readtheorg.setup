@@ -7,3 +7,8 @@
 #+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://btey.github.io/org-html-themes/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://btey.github.io/org-html-themes/styles/readtheorg/js/readtheorg.js"></script>
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://btey.github.io/org-html-themes/styles/lightgallery/lightgallery.min.css"/>
+#+HTML_HEAD: <script type="text/javascript" src="https://btey.github.io/org-html-themes/styles/lightgallery/lightgallery.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://btey.github.io/org-html-themes/styles/lightgallery/lg-thumbnail.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://btey.github.io/org-html-themes/styles/lightgallery/lg-fullscreen.min.js"></script>
