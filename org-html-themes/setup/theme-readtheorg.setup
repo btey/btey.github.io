@@ -8,5 +8,5 @@
 #+HTML_HEAD: <script type="text/javascript" src="https://btey.github.io/org-html-themes/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://btey.github.io/org-html-themes/styles/readtheorg/js/readtheorg.js"></script>
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://btey.github.io/org-html-themes/styles/lib/js/lightbox.min.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://btey.github.io/org-html-themes/styles/lib/js/lightbox.css"/>
 #+HTML_HEAD: <script src="https://btey.github.io/org-html-themes/styles/lib/js/lightbox.min.js"></script>
