@@ -87,8 +87,8 @@
     padding: .5em;
     display: none;
     height: auto;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 60px; /* auto; */
+    /*margin-right: auto;*/
     opacity: 0;
 }
 
