@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{69:function(e){e.exports=JSON.parse('{"title":"All our posts","items":[{"title":"CentOS8-OpenProject-EE","permalink":"/blog/2020/11/17/CentOS8-OpenProject-EE"},{"title":"Welcome2","permalink":"/blog/welcome2"},{"title":"Hello","permalink":"/blog/hello-world"},{"title":"Hola","permalink":"/blog/hola"}]}')}}]);

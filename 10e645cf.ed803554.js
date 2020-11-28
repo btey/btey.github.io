@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{59:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Using twice the blog plugin","permalink":"/second-blog/2020/08/03/second-blog-intro"}]}')}}]);

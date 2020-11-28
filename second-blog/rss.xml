@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>My Site Blog</title>
+        <link>https://btey.github.io/second-blog</link>
+        <description>My Site Blog</description>
+        <lastBuildDate>Mon, 03 Aug 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2020 Facebook, Inc.</copyright>
+        <item>
+            <title><![CDATA[Using twice the blog plugin]]></title>
+            <link>https://btey.github.io/second-blog/2020/08/03/second-blog-intro</link>
+            <guid>Using twice the blog plugin</guid>
+            <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Did you know you can use multiple instances of the same plugin?]]></description>
+        </item>
+    </channel>
+</rss>
