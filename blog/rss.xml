@@ -4,17 +4,10 @@
         <title>My Site Blog</title>
         <link>https://btey.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Tue, 17 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 B. Tey</copyright>
-        <item>
-            <title><![CDATA[CentOS8-OpenProject-EE]]></title>
-            <link>https://btey.github.io/blog/2020/11/17/CentOS8-OpenProject-EE</link>
-            <guid>CentOS8-OpenProject-EE</guid>
-            <pubDate>Tue, 17 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[OpenProject (Docker) + CentOS 8]]></description>
-        </item>
         <item>
             <title><![CDATA[Welcome2]]></title>
             <link>https://btey.github.io/blog/welcome2</link>
