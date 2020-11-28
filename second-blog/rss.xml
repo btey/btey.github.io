@@ -7,7 +7,7 @@
         <lastBuildDate>Mon, 03 Aug 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2020 Facebook, Inc.</copyright>
+        <copyright>Copyright © 2020 B. Tey</copyright>
         <item>
             <title><![CDATA[Using twice the blog plugin]]></title>
             <link>https://btey.github.io/second-blog/2020/08/03/second-blog-intro</link>
