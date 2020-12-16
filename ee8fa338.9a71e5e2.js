@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{96:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cent-os","name":"centos","count":1,"permalink":"/blog/tags/cent-os"}')}}]);

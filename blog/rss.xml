@@ -4,16 +4,16 @@
         <title>Tech Docs Blog</title>
         <link>https://btey.github.io/blog</link>
         <description>Tech Docs Blog</description>
-        <lastBuildDate>Tue, 17 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 B. Tey</copyright>
         <item>
-            <title><![CDATA[OpenProject (Docker) + CentOS 8]]></title>
-            <link>https://btey.github.io/blog/CentOS8-OP</link>
-            <guid>CentOS8-OP</guid>
-            <pubDate>Tue, 17 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Note: start with a CentOS 8 server installation without any extras.]]></description>
+            <title><![CDATA[Autodesk Maya - HotKey for Selection Highlighting]]></title>
+            <link>https://btey.github.io/blog/maya-hotkey-selection-highlighting</link>
+            <guid>maya-hotkey-selection-highlighting</guid>
+            <pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[To add a new HotKey in Autodesk Maya to switch the Selection Highlighting option in the Show menu of the viewport follow this steps:]]></description>
         </item>
     </channel>
 </rss>

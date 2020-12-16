@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{78:function(e){e.exports=JSON.parse('{"title":"All our posts","items":[{"title":"OpenProject (Docker) + CentOS 8","permalink":"/blog/CentOS8-OP"}]}')}}]);
