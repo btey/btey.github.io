@@ -4,10 +4,17 @@
         <title>Tech Docs Blog</title>
         <link>https://btey.github.io/blog</link>
         <description>Tech Docs Blog</description>
-        <lastBuildDate>Tue, 01 Dec 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 B. Tey</copyright>
+        <item>
+            <title><![CDATA[PostgreSQL - Enable/Disable autostart on macOS]]></title>
+            <link>https://btey.github.io/blog/postgresql-enable-disable-autostart-macos</link>
+            <guid>postgresql-enable-disable-autostart-macos</guid>
+            <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enable PostgreSQL autostart]]></description>
+        </item>
         <item>
             <title><![CDATA[Autodesk Maya - HotKey for Selection Highlighting]]></title>
             <link>https://btey.github.io/blog/maya-hotkey-selection-highlighting</link>
