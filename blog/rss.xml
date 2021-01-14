@@ -7,7 +7,7 @@
         <lastBuildDate>Wed, 16 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2020 B. Tey</copyright>
+        <copyright>Copyright © 2021 B. Tey</copyright>
         <item>
             <title><![CDATA[PostgreSQL - Enable/Disable autostart on macOS]]></title>
             <link>https://btey.github.io/blog/postgresql-enable-disable-autostart-macos</link>

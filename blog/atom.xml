@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://btey.github.io/blog"/>
     <subtitle>Tech Docs Blog</subtitle>
     <icon>https://btey.github.io/img/favicon.ico</icon>
-    <rights>Copyright © 2020 B. Tey</rights>
+    <rights>Copyright © 2021 B. Tey</rights>
     <entry>
         <title type="html"><![CDATA[PostgreSQL - Enable/Disable autostart on macOS]]></title>
         <id>postgresql-enable-disable-autostart-macos</id>
