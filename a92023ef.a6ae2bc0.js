@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{95:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"hot-key","name":"hotkey","count":1,"permalink":"/blog/tags/hot-key"}')}}]);

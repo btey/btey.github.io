@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{83:function(t){t.exports=JSON.parse('{"title":"All our posts","items":[{"title":"PostgreSQL - Enable/Disable autostart on macOS","permalink":"/blog/postgresql-enable-disable-autostart-macos"},{"title":"Autodesk Maya - HotKey for Selection Highlighting","permalink":"/blog/maya-hotkey-selection-highlighting"}]}')}}]);
